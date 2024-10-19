@@ -1,8 +1,8 @@
-# DEVPamel
+# DEVPanel
 
 ## Project Overview
 
-Welcome to **Code Tracker**! This is a web application designed to help programmers and CSE students track their coding progress. Whether you're working on personal projects, preparing for exams, or just coding for fun, this app will keep you on track.
+Welcome to **Devpanel**! This is a web application designed to help programmers and CSE students track their coding progress. Whether you're working on personal projects, preparing for exams, or just coding for fun, this app will keep you on track.
 
 ## Features
 
